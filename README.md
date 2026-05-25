@@ -39,6 +39,10 @@ The lab focused on querying authentication logs, employee records, and login att
 ---
 
 # Task 1 — Retrieve After-Hours Failed Login Attempts
+## Screenshots
+<img width="928" height="781" alt="Task 1  Retrieve after hours failed login attempts Pt 2" src="https://github.com/user-attachments/assets/7d1380f5-cd17-46b3-87a3-68e0c6053b01" />
+<img width="920" height="524" alt="Task 1  Retrieve after hours failed login attempts Pt 1 " src="https://github.com/user-attachments/assets/2029d9fa-7fa1-46b0-b33f-fb750cbf85ea" />
+<img width="933" height="793" alt="Task 1  Retrieve after hours failed login attempts Pt 3" src="https://github.com/user-attachments/assets/d8193aed-5d15-4be0-8b1f-9d9a54545645" />
 
 ## Purpose
 
@@ -76,6 +80,9 @@ AND success = FALSE;
 ---
 
 # Task 2 — Retrieve Login Attempts on Specific Dates
+## Screenshots
+<img width="928" height="793" alt="Task 2  Retrieve login attempts on specific dates" src="https://github.com/user-attachments/assets/f5cbbf0d-92f7-4455-adff-4cc314aafaa4" />
+<img width="928" height="749" alt="Task 2  Retrieve login attempts on specific dates Pt 2" src="https://github.com/user-attachments/assets/a9e6a69e-cb2c-4626-9d1c-c257c106c61d" />
 
 ## Purpose
 
@@ -113,6 +120,9 @@ OR login_date = '2022-05-08';
 ---
 
 # Task 3 — Retrieve Login Attempts Outside of Mexico
+## Screenshots
+<img width="928" height="745" alt="Task 3  Retrieve login attempts outside of Mexico Pt 2" src="https://github.com/user-attachments/assets/a3a61f34-b718-4c83-b600-016a24801815" />
+<img width="931" height="801" alt="Task 3  Retrieve login attempts outside of Mexico Pt 1" src="https://github.com/user-attachments/assets/160367ff-5875-46fd-b4b3-464127e87024" />
 
 ## Purpose
 
@@ -147,6 +157,8 @@ WHERE NOT country LIKE 'MEX%';
 ---
 
 # Task 4 — Retrieve Marketing Employees in East Buildings
+## Screenshot
+<img width="926" height="491" alt="Task 4  Retrieve employees in Marketing East buidling specific" src="https://github.com/user-attachments/assets/5e1b4387-ee06-4eef-abfd-0298c21b0b38" />
 
 ## Purpose
 
@@ -184,6 +196,9 @@ AND office LIKE 'East%';
 ---
 
 # Task 5 — Retrieve Employees in Finance or Sales
+## Screenshots
+<img width="925" height="798" alt="Task 5  Retrieve employees in Finance or Sales Pt 1" src="https://github.com/user-attachments/assets/abb327f3-ba56-4d26-b26d-32b810a2d631" />
+<img width="923" height="798" alt="Task 5  Retrieve employees in Finance or Sales Pt 2" src="https://github.com/user-attachments/assets/d4147f7e-2ffb-4320-ae2c-1c6724e0936b" />
 
 ## Purpose
 
@@ -220,6 +235,9 @@ OR department = 'Sales';
 ---
 
 # Task 6 — Retrieve All Employees Not in IT
+## Screenshots
+<img width="928" height="739" alt="Task 6  Retrieve all employees not in IT Pt 2" src="https://github.com/user-attachments/assets/f8dcab93-b876-41de-9997-6cf1310b19d0" />
+<img width="925" height="798" alt="Task 6  Retrieve all employees not in IT Pt 1" src="https://github.com/user-attachments/assets/9ec2a782-f4f8-43d5-b1bd-da34ff012754" />
 
 ## Skills Demonstrated
 
